@@ -22,3 +22,7 @@ Desta forma, pode-se usar estilo separados para cada situação.
   /* Estilo para o modo dark (dark mode) */
 }
 ```
+
+### Demonstração
+
+Abra [Color scheme](https://gaholanda.githb.io/color-scheme) e alterne o tema do seu navegador entre claro e escuro.
