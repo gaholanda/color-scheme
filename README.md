@@ -26,3 +26,5 @@ Desta forma, pode-se usar estilo separados para cada situação.
 ### Demonstração
 
 Abra [Color scheme](https://gaholanda.github.io/color-scheme) e alterne o tema do seu navegador entre claro e escuro.
+
+[Modo escuro no Chrome](https://support.google.com/chrome/answer/9275525?co=GENIE.Platform%3DDesktop&hl=en&oco=0)
