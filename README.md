@@ -25,4 +25,4 @@ Desta forma, pode-se usar estilo separados para cada situação.
 
 ### Demonstração
 
-Abra [Color scheme](https://gaholanda.githb.io/color-scheme) e alterne o tema do seu navegador entre claro e escuro.
+Abra [Color scheme](https://gaholanda.github.io/color-scheme) e alterne o tema do seu navegador entre claro e escuro.
